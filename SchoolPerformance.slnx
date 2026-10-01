@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="QueryShapes/QueryShapes.csproj" />
+  <Project Path="data-volume/SchoolDataVolume.csproj" />
+  <Project Path="db-report/SchoolPerformance.DbReport.csproj" />
+</Solution>

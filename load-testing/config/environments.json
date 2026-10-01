@@ -1,0 +1,20 @@
+{
+  "environments": {
+    "local": {
+      "authUrl": "http://localhost:8086",
+      "apiUrl": "http://localhost:8087",
+      "description": "Local development environment"
+    },
+    "staging": {
+      "authUrl": "https://auth-staging.scube.com",
+      "apiUrl": "https://api-staging.scube.com",
+      "description": "Staging environment"
+    }
+  },
+  "thresholds": {
+    "http_req_duration": ["p(95)<500"],
+    "http_req_failed": ["rate<0.01"],
+    "http_reqs": ["rate>100"]
+  },
+  "defaultEnvironment": "local"
+}

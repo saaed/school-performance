@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SCube\\school-performance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D016A298-A9FD-9691-E1E5-55414C8E5813}|QueryShapes\\QueryShapes.csproj|d:\\scube\\school-performance\\queryshapes\\querycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D016A298-A9FD-9691-E1E5-55414C8E5813}|QueryShapes\\QueryShapes.csproj|solutionrelative:queryshapes\\querycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5118EA9D-B651-4EE4-DDF5-12E1C7C186C9}|db-report\\SchoolPerformance.DbReport.csproj|d:\\scube\\school-performance\\db-report\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5118EA9D-B651-4EE4-DDF5-12E1C7C186C9}|db-report\\SchoolPerformance.DbReport.csproj|solutionrelative:db-report\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2882EC8B-C4A5-D52B-2EB8-7BCA351E2CE9}|data-volume\\SchoolDataVolume.csproj|d:\\scube\\school-performance\\data-volume\\tests\\attendancequerytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2882EC8B-C4A5-D52B-2EB8-7BCA351E2CE9}|data-volume\\SchoolDataVolume.csproj|solutionrelative:data-volume\\tests\\attendancequerytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2882EC8B-C4A5-D52B-2EB8-7BCA351E2CE9}|data-volume\\SchoolDataVolume.csproj|d:\\scube\\school-performance\\data-volume\\queries\\youractualqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2882EC8B-C4A5-D52B-2EB8-7BCA351E2CE9}|data-volume\\SchoolDataVolume.csproj|solutionrelative:data-volume\\queries\\youractualqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2882EC8B-C4A5-D52B-2EB8-7BCA351E2CE9}|data-volume\\SchoolDataVolume.csproj|d:\\scube\\school-performance\\data-volume\\seeders\\hrmoduleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2882EC8B-C4A5-D52B-2EB8-7BCA351E2CE9}|data-volume\\SchoolDataVolume.csproj|solutionrelative:data-volume\\seeders\\hrmoduleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2882EC8B-C4A5-D52B-2EB8-7BCA351E2CE9}|data-volume\\SchoolDataVolume.csproj|d:\\scube\\school-performance\\data-volume\\tests\\indexadvicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2882EC8B-C4A5-D52B-2EB8-7BCA351E2CE9}|data-volume\\SchoolDataVolume.csproj|solutionrelative:data-volume\\tests\\indexadvicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2882EC8B-C4A5-D52B-2EB8-7BCA351E2CE9}|data-volume\\SchoolDataVolume.csproj|d:\\scube\\school-performance\\data-volume\\tests\\perfdatasettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2882EC8B-C4A5-D52B-2EB8-7BCA351E2CE9}|data-volume\\SchoolDataVolume.csproj|solutionrelative:data-volume\\tests\\perfdatasettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D016A298-A9FD-9691-E1E5-55414C8E5813}|QueryShapes\\QueryShapes.csproj|d:\\scube\\school-performance\\queryshapes\\indexadvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D016A298-A9FD-9691-E1E5-55414C8E5813}|QueryShapes\\QueryShapes.csproj|solutionrelative:queryshapes\\indexadvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2882EC8B-C4A5-D52B-2EB8-7BCA351E2CE9}|data-volume\\SchoolDataVolume.csproj|d:\\scube\\school-performance\\data-volume\\seeders\\perfdatasetseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2882EC8B-C4A5-D52B-2EB8-7BCA351E2CE9}|data-volume\\SchoolDataVolume.csproj|solutionrelative:data-volume\\seeders\\perfdatasetseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2882EC8B-C4A5-D52B-2EB8-7BCA351E2CE9}|data-volume\\SchoolDataVolume.csproj|d:\\scube\\school-performance\\data-volume\\seeders\\feesmoduleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2882EC8B-C4A5-D52B-2EB8-7BCA351E2CE9}|data-volume\\SchoolDataVolume.csproj|solutionrelative:data-volume\\seeders\\feesmoduleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5118EA9D-B651-4EE4-DDF5-12E1C7C186C9}|db-report\\SchoolPerformance.DbReport.csproj|d:\\scube\\school-performance\\db-report\\migrationwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5118EA9D-B651-4EE4-DDF5-12E1C7C186C9}|db-report\\SchoolPerformance.DbReport.csproj|solutionrelative:db-report\\migrationwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5118EA9D-B651-4EE4-DDF5-12E1C7C186C9}|db-report\\SchoolPerformance.DbReport.csproj|d:\\scube\\school-performance\\db-report\\benchmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5118EA9D-B651-4EE4-DDF5-12E1C7C186C9}|db-report\\SchoolPerformance.DbReport.csproj|solutionrelative:db-report\\benchmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2882EC8B-C4A5-D52B-2EB8-7BCA351E2CE9}|data-volume\\SchoolDataVolume.csproj|d:\\scube\\school-performance\\data-volume\\tests\\studentquerytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2882EC8B-C4A5-D52B-2EB8-7BCA351E2CE9}|data-volume\\SchoolDataVolume.csproj|solutionrelative:data-volume\\tests\\studentquerytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YourActualQueries.cs",
+              "DocumentMoniker": "D:\\SCube\\school-performance\\data-volume\\Queries\\YourActualQueries.cs",
+              "RelativeDocumentMoniker": "data-volume\\Queries\\YourActualQueries.cs",
+              "ToolTip": "D:\\SCube\\school-performance\\data-volume\\Queries\\YourActualQueries.cs",
+              "RelativeToolTip": "data-volume\\Queries\\YourActualQueries.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAswK8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T19:45:10.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HrModuleSeeder.cs",
+              "DocumentMoniker": "D:\\SCube\\school-performance\\data-volume\\Seeders\\HrModuleSeeder.cs",
+              "RelativeDocumentMoniker": "data-volume\\Seeders\\HrModuleSeeder.cs",
+              "ToolTip": "D:\\SCube\\school-performance\\data-volume\\Seeders\\HrModuleSeeder.cs",
+              "RelativeToolTip": "data-volume\\Seeders\\HrModuleSeeder.cs",
+              "ViewState": "AgIAAFIBAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T09:43:01.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueryCatalog.cs",
+              "DocumentMoniker": "D:\\SCube\\school-performance\\QueryShapes\\QueryCatalog.cs",
+              "RelativeDocumentMoniker": "QueryShapes\\QueryCatalog.cs",
+              "ToolTip": "D:\\SCube\\school-performance\\QueryShapes\\QueryCatalog.cs",
+              "RelativeToolTip": "QueryShapes\\QueryCatalog.cs",
+              "ViewState": "AgIAABckAAAAAAAAAAAUwOgDAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:36:31.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendanceQueryTests.cs",
+              "DocumentMoniker": "D:\\SCube\\school-performance\\data-volume\\Tests\\AttendanceQueryTests.cs",
+              "RelativeDocumentMoniker": "data-volume\\Tests\\AttendanceQueryTests.cs",
+              "ToolTip": "D:\\SCube\\school-performance\\data-volume\\Tests\\AttendanceQueryTests.cs",
+              "RelativeToolTip": "data-volume\\Tests\\AttendanceQueryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:06:42.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PerfDatasetTests.cs",
+              "DocumentMoniker": "D:\\SCube\\school-performance\\data-volume\\Tests\\PerfDatasetTests.cs",
+              "RelativeDocumentMoniker": "data-volume\\Tests\\PerfDatasetTests.cs",
+              "ToolTip": "D:\\SCube\\school-performance\\data-volume\\Tests\\PerfDatasetTests.cs",
+              "RelativeToolTip": "data-volume\\Tests\\PerfDatasetTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:06:01.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IndexAdviceTests.cs",
+              "DocumentMoniker": "D:\\SCube\\school-performance\\data-volume\\Tests\\IndexAdviceTests.cs",
+              "RelativeDocumentMoniker": "data-volume\\Tests\\IndexAdviceTests.cs",
+              "ToolTip": "D:\\SCube\\school-performance\\data-volume\\Tests\\IndexAdviceTests.cs",
+              "RelativeToolTip": "data-volume\\Tests\\IndexAdviceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T20:21:32.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SCube\\school-performance\\db-report\\Program.cs",
+              "RelativeDocumentMoniker": "db-report\\Program.cs",
+              "ToolTip": "D:\\SCube\\school-performance\\db-report\\Program.cs",
+              "RelativeToolTip": "db-report\\Program.cs",
+              "ViewState": "AgIAAGoDAAAAAAAAAAAIwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T18:09:12.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PerfDatasetSeeder.cs",
+              "DocumentMoniker": "D:\\SCube\\school-performance\\data-volume\\Seeders\\PerfDatasetSeeder.cs",
+              "RelativeDocumentMoniker": "data-volume\\Seeders\\PerfDatasetSeeder.cs",
+              "ToolTip": "D:\\SCube\\school-performance\\data-volume\\Seeders\\PerfDatasetSeeder.cs",
+              "RelativeToolTip": "data-volume\\Seeders\\PerfDatasetSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T20:21:05.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FeesModuleSeeder.cs",
+              "DocumentMoniker": "D:\\SCube\\school-performance\\data-volume\\Seeders\\FeesModuleSeeder.cs",
+              "RelativeDocumentMoniker": "data-volume\\Seeders\\FeesModuleSeeder.cs",
+              "ToolTip": "D:\\SCube\\school-performance\\data-volume\\Seeders\\FeesModuleSeeder.cs",
+              "RelativeToolTip": "data-volume\\Seeders\\FeesModuleSeeder.cs",
+              "ViewState": "AgIAAGQBAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T19:49:04.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IndexAdvice.cs",
+              "DocumentMoniker": "D:\\SCube\\school-performance\\QueryShapes\\IndexAdvice.cs",
+              "RelativeDocumentMoniker": "QueryShapes\\IndexAdvice.cs",
+              "ToolTip": "D:\\SCube\\school-performance\\QueryShapes\\IndexAdvice.cs",
+              "RelativeToolTip": "QueryShapes\\IndexAdvice.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T20:21:13.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MigrationWriter.cs",
+              "DocumentMoniker": "D:\\SCube\\school-performance\\db-report\\MigrationWriter.cs",
+              "RelativeDocumentMoniker": "db-report\\MigrationWriter.cs",
+              "ToolTip": "D:\\SCube\\school-performance\\db-report\\MigrationWriter.cs",
+              "RelativeToolTip": "db-report\\MigrationWriter.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T19:22:36.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Benchmark.cs",
+              "DocumentMoniker": "D:\\SCube\\school-performance\\db-report\\Benchmark.cs",
+              "RelativeDocumentMoniker": "db-report\\Benchmark.cs",
+              "ToolTip": "D:\\SCube\\school-performance\\db-report\\Benchmark.cs",
+              "RelativeToolTip": "db-report\\Benchmark.cs",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAswFsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T18:15:09.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentQueryTests.cs",
+              "DocumentMoniker": "D:\\SCube\\school-performance\\data-volume\\Tests\\StudentQueryTests.cs",
+              "RelativeDocumentMoniker": "data-volume\\Tests\\StudentQueryTests.cs",
+              "ToolTip": "D:\\SCube\\school-performance\\data-volume\\Tests\\StudentQueryTests.cs",
+              "RelativeToolTip": "data-volume\\Tests\\StudentQueryTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAD8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T18:11:21.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

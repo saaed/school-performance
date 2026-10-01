@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsPackable>false</IsPackable>
+    <RootNamespace>SchoolPerformance.QueryShapes</RootNamespace>
+    <AssemblyName>SchoolPerformance.QueryShapes</AssemblyName>
+    <Description>
+      The application's query shapes, shared by db-report and data-volume.
+      Deliberately has NO package references: this is data, not a runner.
+    </Description>
+  </PropertyGroup>
+
+</Project>

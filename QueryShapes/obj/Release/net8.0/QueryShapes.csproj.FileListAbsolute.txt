@@ -1,0 +1,11 @@
+D:\SCube\school-performance\QueryShapes\bin\Release\net8.0\SchoolPerformance.QueryShapes.deps.json
+D:\SCube\school-performance\QueryShapes\bin\Release\net8.0\SchoolPerformance.QueryShapes.dll
+D:\SCube\school-performance\QueryShapes\bin\Release\net8.0\SchoolPerformance.QueryShapes.pdb
+D:\SCube\school-performance\QueryShapes\obj\Release\net8.0\QueryShapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCube\school-performance\QueryShapes\obj\Release\net8.0\QueryShapes.AssemblyInfoInputs.cache
+D:\SCube\school-performance\QueryShapes\obj\Release\net8.0\QueryShapes.AssemblyInfo.cs
+D:\SCube\school-performance\QueryShapes\obj\Release\net8.0\QueryShapes.csproj.CoreCompileInputs.cache
+D:\SCube\school-performance\QueryShapes\obj\Release\net8.0\SchoolPerformance.QueryShapes.dll
+D:\SCube\school-performance\QueryShapes\obj\Release\net8.0\refint\SchoolPerformance.QueryShapes.dll
+D:\SCube\school-performance\QueryShapes\obj\Release\net8.0\SchoolPerformance.QueryShapes.pdb
+D:\SCube\school-performance\QueryShapes\obj\Release\net8.0\ref\SchoolPerformance.QueryShapes.dll
