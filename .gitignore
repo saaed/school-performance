@@ -1,0 +1,119 @@
+# =========================
+# .NET 8 / Visual Studio
+# =========================
+
+# Build results — matches bin/ and obj/ in EVERY project
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+build/
+bld/
+[Oo]ut/
+
+# Visual Studio cache / user files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.rsuser
+*.VC.db
+*.VC.VC.opendb
+
+# ReSharper / Rider
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# MSBuild
+*.binlog
+
+# Test results / coverage
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.VisualState.xml
+TestResult.xml
+nunit-results.xml
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# Publish outputs
+publish/
+*.[Pp]ublish.xml
+*.azurePubxml
+*.pubxml
+*.publishproj
+
+# =========================
+# Images (don't upload)
+# =========================
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.ico
+*.svg
+*.webp
+*.heic
+*.raw
+*.psd
+*.ai
+
+# =========================
+# Logs (don't upload)
+# =========================
+*.log
+*.log.*
+logs/
+log/
+**/logs/
+**/log/
+*.txtlog
+*.jsonlog
+*.clef
+*.trace
+*.etl
+*.evtx
+
+# =========================
+# OS / Editor junk
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.swp
+*~
+.vscode/
+
+# =========================
+# Secrets / local config
+# =========================
+appsettings.Development.json
+appsettings.Local.json
+*.local.json
+.env
+secrets.json
